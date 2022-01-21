@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png" height="125px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="125px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Reza Alfian</h1>
 <h3 align="center">I'm an AI and Computer Vision enthusiast from Indonesia.</h3>
