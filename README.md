@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **calfian007@gmail.com**
 
-- ⚡ Fun fact **I play games and Sports very often.**
+- ⚡ Fun fact **I play games a lot.**
 
 ## 🚀 Languages and Tools:
 
@@ -59,7 +59,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/muh-reza-alfian-502a331b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/iamrezaalfian/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
